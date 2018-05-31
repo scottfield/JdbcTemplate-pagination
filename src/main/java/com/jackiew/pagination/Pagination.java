@@ -1,4 +1,4 @@
-package com.kang.pagination;
+package com.jackiew.pagination;
 
 import java.io.Serializable;
 import java.util.ArrayList;

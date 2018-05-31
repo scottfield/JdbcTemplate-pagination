@@ -1,7 +1,6 @@
-package com.kang.pagination;
+package com.jackiew.pagination;
 
 import java.io.Serializable;
-import java.util.Collection;
 
 /**
  * Created by Administrator on 2016/8/31.

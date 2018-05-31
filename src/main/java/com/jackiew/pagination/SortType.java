@@ -1,4 +1,4 @@
-package com.kang.pagination;
+package com.jackiew.pagination;
 
 /**
  * Created by Administrator on 2016/8/29.
